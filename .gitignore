@@ -14,3 +14,6 @@ database/*.sqlite
 # VSCode & Webstorm history directories
 .history
 .idea
+
+# firebase admin SDK JSON file
+adonisjs-firestore-firebase-adminsdk-ajfbl-6a02cfaeb1.json
